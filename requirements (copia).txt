@@ -7,16 +7,16 @@ flatten_json
 pyyaml
 oyaml
 tensorboard
-kornia==0.8.0  # Versión compatible
+kornia
 invisible-watermark
-einops==0.7.0  # Versión compatible
-accelerate==0.33.0  # Versión compatible
+einops
+accelerate
 toml
 albumentations
 pydantic
-omegaconf==2.3.0  # Versión compatible
+omegaconf
 k-diffusion
-open_clip_torch==2.31.0  # Versión compatible
+open_clip_torch
 timm
 prodigyopt
 controlnet_aux==0.0.7
@@ -27,12 +27,8 @@ lpips
 pytorch_fid
 optimum-quanto
 sentencepiece
-huggingface_hub==0.29.2  # Versión compatible
+huggingface_hub
 peft
 gradio
 python-slugify
 imagesize
-torch==2.5.1  # 🔹 Agregar versión específica de torch
-torchvision==0.20.1  # 🔹 Agregar versión específica de torchvision
-torchaudio==2.5.1  # 🔹 Agregar versión específica de torchaudio
-
